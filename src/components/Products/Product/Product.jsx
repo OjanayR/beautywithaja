@@ -6,7 +6,8 @@ import useStyles from './styles';
 /*import classes from '*.module.css';*/
 
 const Product = ({ product }) => {
-    const classess = useStyles();
+    const classes = useStyles();
+
     return (
         <Card  className={classes.root}> 
         <CardMedia className={classes.media} image='' title={Product.name} />
