@@ -4,7 +4,6 @@ import { Products, Navbar } from './components';
 
 const App = () => {
     const [products, setProducts] = useState([]);
-
     const fetchProducts = async () => {
         const { data } = await commerce.products.list();
         
