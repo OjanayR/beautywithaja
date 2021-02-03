@@ -1,6 +1,6 @@
 # Beauty with Aja
 
-'Beauty with Aja' is a mock e-commerce store for a beauty blogger to showcase her lastest skin care and makeup suggestions. 
+'Beauty with Aja' is a mock e-commerce store for a beauty blogger to showcase her latest skin care and makeup suggestions. 
 
 ## Technologies Used
 
